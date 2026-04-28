@@ -5,47 +5,47 @@ Centralized repository yet for all academic project documentation.
 ## Computer Science Courses
 
 **CSE430: Software Testing and Quality Assurance**
-- [Project Report](./CSE430%20Project.pdf) | *No code repository yet*
+- [Project Report](../CS%20courses/CSE430%20Project.pdf) | *No code repository yet*
 
 **CSE412: Software Engineering**
-- [Project Presentation](./CSE412%20Presentation.pdf)
+- [Project Presentation](../CS%20courses/CSE412%20Presentation.pdf)
 
 **CSE400: Capstone Project**
 - [Project Report]() | *No code repository yet*
 
 **CSE407: Green Computing**
-- [Project Report](./CSE407%20Project.pdf) | [Source Code](https://github.com/rifa-zd/Steer-Vector-in-MySQL-407-project)
+- [Project Report](../CS%20courses/CSE407%20Project.pdf) | [Source Code](https://github.com/rifa-zd/Steer-Vector-in-MySQL-407-project)
 
 **CSE347: Information System Analysis and Design**
-- [Project Report](./CSE347%20Project.pdf) on *Travel Agency Website*| [Source Code](https://github.com/rifa-zd/travel_agency_website)
-- [Assignment](./CSE347%20Assignment.pdf)
+- [Project Report](../CS%20courses/CSE347%20Project.pdf) on *Travel Agency Website*| [Source Code](https://github.com/rifa-zd/travel_agency_website)
+- [Assignment](../CS%20courses/CSE347%20Assignment.pdf)
 
 **CSE345: Digital Logic Design**
-- [Assignment Report](./CSE345%20Assignment.pdf) on *(Design the BCD to Seven Segment display Decoder)*
+- [Assignment Report](../CS%20courses/CSE345%20Assignment.pdf) on *(Design the BCD to Seven Segment display Decoder)*
 
 **CSE325: Operating Systems**
-- [Project Report](./CSE325%20project%20report.pdf) on *(Seeking Tutor Problem)*| [Presentation](./CSE325%20Presentation.pdf) | *No code repository yet*
+- [Project Report](../CS%20courses/CSE325%20project%20report.pdf) on *(Seeking Tutor Problem)*| [Presentation](./CSE325%20Presentation.pdf) | *No code repository yet*
 
 **CSE302: Database Systems**
-- [Project Report](./CSE302%20Project.pdf) | *No code repository yet*
+- [Project Report](../CS%20courses/CSE302%20Project.pdf) | *No code repository yet*
 
 **CSE207: Data Structures**
-- [Project Report](./CSE207%20Project.pdf) on *(Implementation of Dynamic Table)*| *No code repository yet*
+- [Project Report](../CS%20courses/CSE207%20Project.pdf) on *(Implementation of Dynamic Table)*| *No code repository yet*
 
 **CSE110: Object Oriented Programming**
-- [Project Report](./CSE110%20PROJECT.pdf) on *(Hospital Management System)* | [Source Code](https://github.com/rifa-zd/Hospital_Management-JAVA-)
+- [Project Report](../CS%20courses/CSE110%20PROJECT.pdf) on *(Hospital Management System)* | [Source Code](https://github.com/rifa-zd/Hospital_Management-JAVA-)
 
 **CSE103: Structured Programming**
-- [Project Report](./CSE103%20project.pdf) on *(Telephone Directory)* | [Source Code](https://github.com/rifa-zd/Telephone-Directory-C-)
+- [Project Report](../CS%20courses/CSE103%20project.pdf) on *(Telephone Directory)* | [Source Code](https://github.com/rifa-zd/Telephone-Directory-C-)
 
 
 ## Data Science & Theory
 
 **CSE366: Artificial Intelligence**
-- [Project Report](./CSE366%20Project.pdf) | *No code repository yet*
+- [Project Report](../CS%20courses/CSE366%20Project.pdf) | *No code repository yet*
 
 **CSE303: Statistics for Data Science**
-- [Project Report](./CSE303%20Project.pdf) | *No code repository yet*
+- [Project Report](../CS%20courses/CSE303%20Project.pdf) | *No code repository yet*
 
 
 ## Non-CS Courses (Documentation Only)
