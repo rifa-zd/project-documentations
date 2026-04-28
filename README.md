@@ -4,6 +4,9 @@ Centralized repository yet for all academic project documentation.
 
 ## Computer Science Courses
 
+**CSE489: Mobile Programming**
+- [Project Report](./CS%20courses/CSE489%20Report.pdf) | [Source Code](https://github.com/rifa-zd/Doctor_Appointment_Mobile_App)
+
 **CSE430: Software Testing and Quality Assurance**
 - [Project Report](./CS%20courses/CSE430%20Project.pdf) | *No code repository yet*
 
