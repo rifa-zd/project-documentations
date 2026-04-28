@@ -13,7 +13,7 @@ Centralized repository yet for all academic project documentation.
 **CSE400: Capstone Project**
 - [CSE400-A]()
 - [CSE400-B](./CS%20courses/400B%20Final%20Report.pdf) | [Presentation](./CS%20courses/400B%20Presentation.pdf)
-- [CSE400-C]()
+- [CSE400-C](./CS%20courses/Capton%20Report%20C.pdf) | [Presentation](./CS%20courses/400C%20Presentation.pdf)
 
 **CSE407: Green Computing**
 - [Project Report](./CS%20courses/CSE407%20Project.pdf) | [Source Code](https://github.com/rifa-zd/Steer-Vector-in-MySQL-407-project)
