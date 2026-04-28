@@ -4,66 +4,49 @@ Centralized repository yet for all academic project documentation.
 
 ## Computer Science Courses
 
-- **[Project Name]** (CSE479: Web Programming)
-    * [Documentation](./CSE479%20Project.pdf) | *No code repository yet*
+**CSE430: Software Testing and Quality Assurance**
+- [Project Report](./CSE430%20Project.pdf) | *No code repository yet*
 
-- **[Project Name]** (CSE430: Software Testing and Quality Assurance)
-    * [Documentation](./CSE430%20Project.pdf) | *No code repository yet*
+**CSE412: Software Engineering**
+- [Project Presentation](./CSE412%20Presentation.pdf)
 
-- **[Project Name]** (CSE412: Software Engineering)
-    * [Documentation](./CSE412%20Project.pdf) | *No code repository yet*
+**CSE400: Capstone Project**
+- [Project Report]() | *No code repository yet*
 
-- **[Project Name]** (CSE400: Capstone Project)
-    * [Documentation](./CSE400%20Project.pdf) | *No code repository yet*
+**CSE407: Green Computing**
+- [Project Report](./CSE407%20Project.pdf) | [Source Code](https://github.com/rifa-zd/Steer-Vector-in-MySQL-407-project)
 
-- **[Project Name]** (CSE495: IT Project Management and Entrepreneurship)
-    * [Documentation](./CSE495%20Project.pdf) | *No code repository yet*
+**CSE347: Information System Analysis and Design**
+- [Project Report](./CSE347%20Project.pdf) on *Travel Agency Website*| [Source Code](https://github.com/rifa-zd/travel_agency_website)
+- [Assignment](./CSE347%20Assignment.pdf)
 
-- **[Project Name]** (CSE487: Cyber Security, Ethics and Law)
-    * [Documentation](./CSE487%20Project.pdf) | *No code repository yet*
+**CSE345: Digital Logic Design**
+- [Assignment Report](./CSE345%20Assignment.pdf) on *(Design the BCD to Seven Segment display Decoder)*
 
-- **[Project Name]** (CSE412: Software Engineering)
-    * [Presentation](./CSE412%20Presentation.pdf)
+**CSE325: Operating Systems**
+- [Project Report](./CSE325%20project%20report.pdf) on *(Seeking Tutor Problem)*| [Presentation](./CSE325%20Presentation.pdf) | *No code repository yet*
 
-- **[Project Name]** (CSE407: Green Computing)
-    * [Documentation](./CSE407%20Project.pdf) | [Source Code](https://github.com/rifa-zd/Steer-Vector-in-MySQL-407-project)
+**CSE302: Database Systems**
+- [Project Report](./CSE302%20Project.pdf) | *No code repository yet*
 
-- **Travel Agency Website** (CSE347: Information System Analysis and Design)
-    * [Documentation](./CSE347%20Project.pdf) | [Source Code](https://github.com/rifa-zd/travel_agency_website)
-    * [Assignment](./CSE347%20Assignment.pdf)
+**CSE207: Data Structures**
+- [Project Report](./CSE207%20Project.pdf) on *(Implementation of Dynamic Table)*| *No code repository yet*
 
-- **Design the BCD to Seven Segment display Decoder** (CSE345: Digital Logic Design )
-    * [Documentation](./CSE345%20Assignment.pdf) 
+**CSE110: Object Oriented Programming**
+- [Project Report](./CSE110%20PROJECT.pdf) on *(Hospital Management System)* | [Source Code](https://github.com/rifa-zd/Hospital_Management-JAVA-)
 
-- **Seeking Tutor Problem** (CSE325: Operating Systems)
-    * [Presentation](./CSE325%20Presentation.pdf) | [Report](./CSE325%20project%20report.pdf) | *No code repository yet*
+**CSE103: Structured Programming**
+- [Project Report](./CSE103%20project.pdf) on *(Telephone Directory)* | [Source Code](https://github.com/rifa-zd/Telephone-Directory-C-)
 
-- **[Project Name]** (CSE302: Database Systems)
-    * [Documentation](./CSE302%20Project.pdf) | *No code repository yet*
-
-- **Travel Agency Website** (CSE246: Algorithms)
-    * [Documentation](./CSE246%20Project.pdf) | *No code repository yet*
-
-- **Implementation of Dynamic Table** (CSE207: Data Structures)
-    * [Documentation](./CSE207%20Project.pdf) | *No code repository yet*
-
-- **Hospital Management System** (CSE110: Object Oriented Programming)
-    * [Documentation](./CSE110%20PROJECT.pdf) | [Source Code](https://github.com/rifa-zd/Hospital_Management-JAVA-)
-
-- **Telephone Directory** (CSE103: Structured Programming)
-    * [Documentation](./CSE103%20project.pdf) | [Source Code](https://github.com/rifa-zd/Telephone-Directory-C-)
-
----
 
 ## Data Science & Theory
 
-- **[Project Name]** (CSE366: Artificial Intelligence)
-    * [Documentation](./CSE366%20Project.pdf) | *No code repository yet*
+**CSE366: Artificial Intelligence**
+- [Project Report](./CSE366%20Project.pdf) | *No code repository yet*
 
-- **[Project Name]** (CSE303: Statistics for Data Science)
-    * [Documentation](./CSE303%20Project.pdf) | *No code repository yet*
+**CSE303: Statistics for Data Science**
+- [Project Report](./CSE303%20Project.pdf) | *No code repository yet*
 
----
 
 ## Non-CS Courses (Documentation Only)
 
