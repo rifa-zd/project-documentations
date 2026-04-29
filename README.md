@@ -20,6 +20,7 @@ Centralized repository yet for all academic project documentation.
 
 **CSE407: Green Computing**
 - [Project Report](./CS%20courses/CSE407%20Project.pdf) | [Source Code](https://github.com/rifa-zd/Steer-Vector-in-MySQL-407-project)
+- [Midterm Project Report](./CS%20courses/CSE407%20-%20Midterm%20Project%20Report.pdf) | [Source Code](https://github.com/rifa-zd/Gmail-CO2e-Energy-Monitoring---broswer-extension)
 
 **CSE347: Information System Analysis and Design**
 - [Project Report](./CS%20courses/CSE347%20Project.pdf) on *Travel Agency Website*| [Source Code](https://github.com/rifa-zd/travel_agency_website)
