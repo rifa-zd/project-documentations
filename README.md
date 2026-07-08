@@ -5,11 +5,10 @@ Centralized repository yet for all academic project documentation.
 ## Computer Science Courses
 
 **CSE489: Mobile Programming**
-- [Project Report](./CS%20courses/CSE489%20Report.pdf) | [Source Code](https://github.com/rifa-zd/Doctor_Appointment_Mobile_App)
+- [Project Report](./CS%20courses/CSE489%20Report.pdf) 
 
 **CSE430: Software Testing and Quality Assurance**
-- [Project Report](./CS%20courses/CSE430%20Project.pdf) | *No code repository yet*
-
+- [Project Report](./CS%20courses/CSE430%20Project.pdf) 
 **CSE412: Software Engineering**
 - [Project Presentation](./CS%20courses/CSE412%20Presentation.pdf)
 
@@ -19,11 +18,11 @@ Centralized repository yet for all academic project documentation.
 - [CSE400-C](./CS%20courses/Capton%20Report%20C.pdf) | [Presentation](./CS%20courses/400C%20Presentation.pdf)
 
 **CSE407: Green Computing**
-- [Project Report](./CS%20courses/CSE407%20Project.pdf) | [Source Code](https://github.com/rifa-zd/Steer-Vector-in-MySQL-407-project)
-- [Midterm Project Report](./CS%20courses/CSE407%20-%20Midterm%20Project%20Report.pdf) | [Source Code](https://github.com/rifa-zd/Gmail-CO2e-Energy-Monitoring---broswer-extension)
+- [Project Report](./CS%20courses/CSE407%20Project.pdf)
+- [Midterm Project Report](./CS%20courses/CSE407%20-%20Midterm%20Project%20Report.pdf) 
 
 **CSE347: Information System Analysis and Design**
-- [Project Report](./CS%20courses/CSE347%20Project.pdf) on *Travel Agency Website*| [Source Code](https://github.com/rifa-zd/travel_agency_website)
+- [Project Report](./CS%20courses/CSE347%20Project.pdf) on *Travel Agency Website*
 - [Assignment](./CS%20courses/CSE347%20Assignment.pdf)
 
 **CSE345: Digital Logic Design**
@@ -33,25 +32,25 @@ Centralized repository yet for all academic project documentation.
 - [Project Report](./CS%20courses/CSE325%20project%20report.pdf) on *(Seeking Tutor Problem)*| [Presentation](./CS%20courses/CSE325%20Presentation.pdf) | *No code repository yet*
 
 **CSE302: Database Systems**
-- [Project Report](./CS%20courses/CSE302%20Project.pdf) | *No code repository yet*
+- [Project Report](./CS%20courses/CSE302%20Project.pdf)
 
 **CSE207: Data Structures**
-- [Project Report](./CS%20courses/CSE207%20Project.pdf) on *(Implementation of Dynamic Table)*| *No code repository yet*
+- [Project Report](./CS%20courses/CSE207%20Project.pdf) on *(Implementation of Dynamic Table)*
 
 **CSE110: Object Oriented Programming**
-- [Project Report](./CS%20courses/CSE110%20PROJECT.pdf) on *(Hospital Management System)* | [Source Code](https://github.com/rifa-zd/Hospital_Management-JAVA-)
+- [Project Report](./CS%20courses/CSE110%20PROJECT.pdf) on *(Hospital Management System)*
 
 **CSE103: Structured Programming**
-- [Project Report](./CS%20courses/CSE103%20project.pdf) on *(Telephone Directory)* | [Source Code](https://github.com/rifa-zd/Telephone-Directory-C-)
+- [Project Report](./CS%20courses/CSE103%20project.pdf) on *(Telephone Directory)*
 
 
 ## Data Science & Theory
 
 **CSE366: Artificial Intelligence**
-- [Project Report](./CS%20courses/CSE366%20Project.pdf) | *No code repository yet*
+- [Project Report](./CS%20courses/CSE366%20Project.pdf) 
 
 **CSE303: Statistics for Data Science**
-- [Project Report](./CS%20courses/CSE303%20Project.pdf) | *No code repository yet*
+- [Project Report](./CS%20courses/CSE303%20Project.pdf) 
 
 
 ## Non-CS Courses (Documentation Only)
